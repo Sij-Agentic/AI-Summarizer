@@ -1,14 +1,11 @@
-Here’s a **detailed `README.md`** for your AI-Powered Quick Summarizer Chrome Extension. This document includes **installation instructions, usage, setup, security measures, and future improvements**.
 
----
-
-### 📌 **README.md**
 ```md
 # 📝 AI-Powered Quick Summarizer - Chrome Extension 🚀
 
 The **AI-Powered Quick Summarizer** is a Chrome extension that provides instant **AI-generated summaries** of web pages using **Google Gemini AI**. It helps users quickly grasp key information by summarizing content in **bullet points, paragraphs, or tweet-sized summaries**.
 
 ---
+![Image](https://github.com/user-attachments/assets/ad10c75a-dab4-4ce0-bca5-f709123cf095)
 
 ## 🎯 Features
 
